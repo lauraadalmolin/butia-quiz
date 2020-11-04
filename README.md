@@ -9,12 +9,12 @@ Primeiramente você precisa seguir o tutorial de cloud da google disponível [aq
 
 Antes de executar a primeira vez, execute o seguinte código: 
 
-`
+~~~
 pip install pydub
 
 sudo apt install ffmpeg
 
-`
+~~~
 
 ## Execução
 ----------
