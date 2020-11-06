@@ -10,10 +10,34 @@ Primeiramente você precisa seguir o tutorial de cloud da google disponível [aq
 Antes de executar a primeira vez, execute o seguinte código: 
 
 ~~~
-pip install pydub
 sudo apt install ffmpeg
+pip3 install pydub
+pip3 install nltk
+pip3 install wolframalpha
+pip3 install python-Levenshtein
+
 ~~~
 
 ## Execução
 ----------
-Em desenvolvimento...
+Para executar o sistema, basta instalar todos os requirements e rodar:
+
+~~~
+python3 quiz.py -f 'nomedoarquivo'
+~~~
+
+Em 'nomedoarquivo', você deve informar o path para o arquivo de áudio (.mp3 ou .wav).
+Na sua tela aparecerão a pergunta, extraída do áudio, e a resposta.
+
+# Alguns problemas frequentes
+---------
+Talvez você precise executar os seguintes comandos:
+
+~~~
+nltk.download('stopwords')
+nltk.download('punkt')
+~~~
+
+Essas duas linhas estão comentadas no arquivo pseudo_nlp.py. Se você encontrar algum erro relacionado aos termos 'stopwords' e 'punkt', experimente descomentá-las e rodar novamente.
+
+
