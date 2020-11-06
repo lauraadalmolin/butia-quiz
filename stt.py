@@ -7,17 +7,20 @@ def transcribe_file(speech_file):
 
     if ".mp3" in speech_file:
         sound = AudioSegment.from_mp3(speech_file)
+        sound = sound.set_channels(1)
         sound.export(speech_file[:-4] + ".wav", format="wav")
+        speech_file = speech_file[:-4] + ".wav"
 
     client = speech.SpeechClient()
 
     with io.open(speech_file, "rb") as audio_file:
         content = audio_file.read()
 
+
     audio = speech.RecognitionAudio(content=content)
     config = speech.RecognitionConfig(
         encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16,
-        language_code="en-US",
+        language_code="en-US"
     )
 
     response = client.recognize(config=config, audio=audio)
@@ -27,5 +30,3 @@ def transcribe_file(speech_file):
        response_string += result.alternatives[0].transcript
 
     return response_string
-
-print(transcribe_file('resources/0703.wav'))
