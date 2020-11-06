@@ -1,18 +1,16 @@
-import wolframalpha
+import argparse
+from search import answer_question
+from stt import transcribe_file
 
-app_id = 'V3897X-4ELHA6XU53'
+parser = argparse.ArgumentParser()
+parser.add_argument('-f', '--files', nargs='+',
+                    help='Please inform the name of the audio files separated by a space', required=True)
 
-def answer_question(question):
+audio_files = vars(parser.parse_args())["files"]
 
-    client = wolframalpha.Client(app_id)
-    try:
-        res = client.query(question)
-        if res['@success'] == 'false':
-            #search wikipedia
-            
-        else:
-            answer = next(res.results).text
-            return answer
-
-
-question = input('Question: ')
+for audio_file in audio_files:
+    question = transcribe_file(audio_file)
+    print(question)
+    answer = answer_question(question)
+    print(answer)
+    print('-------------------------')
