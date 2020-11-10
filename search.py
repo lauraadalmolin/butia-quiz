@@ -1,6 +1,5 @@
 import wolframalpha
 import requests
-from googlesearch import search
 from Levenshtein import distance
 from pseudo_nlp import pre_process_question, merge_question_array
 
