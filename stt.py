@@ -1,5 +1,6 @@
 from os import path, environ
 from pydub import AudioSegment
+from pseudo_nlp import find_question
 
 def transcribe_file(speech_file):
     from google.cloud import speech
@@ -28,5 +29,9 @@ def transcribe_file(speech_file):
     response_string = ""
     for result in response.results:
        response_string += result.alternatives[0].transcript
+
+    question_obj = find_question(response_string)
+    if question_obj != None:
+        response_string = question_obj['question']
 
     return response_string

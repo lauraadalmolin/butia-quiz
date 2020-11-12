@@ -29,6 +29,9 @@ python3 quiz.py -f 'nomedoarquivo'
 Em 'nomedoarquivo', você deve informar o path para o arquivo de áudio (.mp3 ou .wav).
 Na sua tela aparecerão a pergunta, extraída do áudio, e a resposta.
 
+Para testar apenas a resolução das perguntas, sem o STT, você pode rodar python3 search.py.
+Ele gerará as respostas para todas as perguntas da competição.
+
 # Alguns problemas frequentes
 ---------
 Talvez você precise executar os seguintes comandos:
