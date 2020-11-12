@@ -75,6 +75,20 @@
             "question": "Which capitals in Brazil have the same name as your state?",
             "answer": "São Paulo and Rio de Janeiro",
             "question_array": ["Which", "capitals", "Brazil", "name", "state"]
+        },
+        {
+            "question": "In which city is the world's first urban elevator and what is the name of that elevator?",
+            "answer": "The Lacerda Elevator (Elevador Lacerda) is a public urban elevator located in Salvador, Brazil, connecting the lower city (Cidade Baixa) to the upper city (Cidade Alta).",
+            "question_array": [
+                "In",
+                "city",
+                "world",
+                "first",
+                "urban",
+                "elevator",
+                "name",
+                "elevator"
+            ]
         }
     ]
 }
