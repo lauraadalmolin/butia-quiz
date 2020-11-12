@@ -51,11 +51,11 @@
             ]
         },
         {
-            "question": "What is the capital of Ceará?",
+            "question": "What is the capital of Ceara?",
             "question_array": [
                 "What",
                 "capital",
-                "Ceará"
+                "Ceara"
             ]
         },
         {
@@ -95,11 +95,11 @@
             ]
         },
         {
-            "question": "What is the capital of Pará?",
+            "question": "What is the capital of Para?",
             "question_array": [
                 "What",
                 "capital",
-                "Pará"
+                "Para"
             ]
         },
         {
@@ -436,9 +436,9 @@
             ]
         },
         {
-            "question": "Acarajé is a typical food from which state?",
+            "question": "Acaraje is a typical food from which state?",
             "question_array": [
-                "Acarajé",
+                "Acaraje",
                 "typical",
                 "food",
                 "state"
@@ -456,11 +456,11 @@
             ]
         },
         {
-            "question": "Pão de Açúcar is located in which Brazilian capital?",
+            "question": "Pao de Acucar is located in which Brazilian capital?",
             "question_array": [
-                "Pão",
+                "Pao",
                 "de",
-                "Açúcar",
+                "Acucar",
                 "located",
                 "Brazilian",
                 "capital"

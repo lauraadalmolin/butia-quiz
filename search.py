@@ -94,6 +94,9 @@ def answer_question(question):
     if 'oxford' in question:
         return ask_doris(question)
 
+    if 'rio grande do sul' in question:
+        return ask_doris(question)
+
     answer = ask_google(question)
     if answer != '':
         return answer
