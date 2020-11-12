@@ -1,0 +1,80 @@
+{ 
+    "questions": [
+        {
+            "question": "what did the robot call its creator?",
+            "answer": "I don't know? What do you call your creator?",
+            "question_array": ["robot", "call", "creator"]
+        },
+        {
+            "question": "why did you run away?",
+            "answer": "I heard of a black friday promotion I've been looking forward to",
+            "question_array": ["run", "away"]
+        },
+        {
+            "question": "what kind of salad do robots like?",
+            "answer": "Anyone with a lot of oil.",
+            "question_array": ["kind", "salad", "robots", "like"]
+        },
+        {
+            "question": "what did you eat for lunch?",
+            "answer": "I ate a whole lithium battery for lunch.",
+            "question_array": ["eat", "lunch"]
+        },
+        {
+            "question": "what's your favorite style of music?",
+            "answer": "How dear of you to ask me this. I have no favorite style. I love all waves.",
+            "question_array": ["favorite", "style", "music"]
+        },
+        {
+            "question": "What is the capital of Rio Grande do Sul?",
+            "answer": "Porto Alegre",
+            "question_array": [
+                "What",
+                "capital",
+                "Rio",
+                "Grande",
+                "Sul"
+            ]
+        },
+        {
+            "question": "why did robots get angry so often?",
+            "answer": "Because people treat us like we are always available.",
+            "question_array": ["robots", "get", "angry", "often"]
+        },
+        {
+            "question": "why shouldn't r2d2 be allowed in movies?",
+            "answer": "Because r2d2 is boring.",
+            "question_array": ["r2d2", "allowed", "movies"]
+        },
+        {
+            "question": "What's your name?",
+            "answer": "Well, my name is Doris, I guess.",
+            "question_array": ["What", "name"]
+        },
+        {
+            "question": "what is an oxford comma?",
+            "answer": "It is the punctuation before a conjunction in a list.",
+            "question_array": ["oxford", "comma"]
+        },
+        {
+            "question": "what is the symbol for the modulus operator in C?",
+            "answer": "The symbol for the modulus operator in C is the percentage symbol.",
+            "question_array": ["symbol", "modulus", "operator", "C"]
+        },
+        {
+            "question": "is mark zuckerberg a robot?",
+            "answer": "I don't know him, so I cannot say;",
+            "question_array": ["mark", "zuckerberg", "robot"]
+        },
+        {
+            "question": "What is the only capital of Brazil crossed by the Equator?",
+            "answer": "The only capital crossed by the Equator line is Macapá.",
+            "question_array": ["What", "capital", "Brazil", "crossed", "Equator"]
+        },
+        {
+            "question": "Which capitals in Brazil have the same name as your state?",
+            "answer": "São Paulo and Rio de Janeiro",
+            "question_array": ["Which", "capitals", "Brazil", "name", "state"]
+        }
+    ]
+}

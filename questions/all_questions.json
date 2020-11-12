@@ -1,0 +1,470 @@
+{
+    "questions": [
+        {
+            "question": "what does the acronym SMTP represent?",
+            "question_array": [
+                "acronym",
+                "SMTP",
+                "represent"
+            ]
+        },
+        {
+            "question": "what does the acronym MPEG represent?",
+            "question_array": [
+                "acronym",
+                "MPEG",
+                "represent"
+            ]
+        },
+        {
+            "question": "what does the acronym GIMP represent?",
+            "question_array": [
+                "acronym",
+                "GIMP",
+                "represent"
+            ]
+        },
+        {
+            "question": "what does the acronym GNU represent?",
+            "question_array": [
+                "acronym",
+                "GNU",
+                "represent"
+            ]
+        },
+        {
+            "question": "What is the Newest State in Brazil?",
+            "question_array": [
+                "What",
+                "Newest",
+                "State",
+                "Brazil"
+            ]
+        },
+        {
+            "question": "What is the oldest state in Brazil?",
+            "question_array": [
+                "What",
+                "oldest",
+                "state",
+                "Brazil"
+            ]
+        },
+        {
+            "question": "What is the capital of Ceará?",
+            "question_array": [
+                "What",
+                "capital",
+                "Ceará"
+            ]
+        },
+        {
+            "question": "What is the capital of Rio Grande do Sul?",
+            "question_array": [
+                "What",
+                "capital",
+                "Rio",
+                "Grande",
+                "Sul"
+            ]
+        },
+        {
+            "question": "What is the capital of Rio Grande do Norte?",
+            "question_array": [
+                "What",
+                "capital",
+                "Rio",
+                "Grande",
+                "Norte"
+            ]
+        },
+        {
+            "question": "What is the capital of Brazil?",
+            "question_array": [
+                "What",
+                "capital",
+                "Brazil"
+            ]
+        },
+        {
+            "question": "What is the capital of Pernambuco?",
+            "question_array": [
+                "What",
+                "capital",
+                "Pernambuco"
+            ]
+        },
+        {
+            "question": "What is the capital of Pará?",
+            "question_array": [
+                "What",
+                "capital",
+                "Pará"
+            ]
+        },
+        {
+            "question": "what is the hero's name in the legend of zelda?",
+            "question_array": [
+                "hero",
+                "name",
+                "legend",
+                "zelda"
+            ]
+        },
+        {
+            "question": "what are the names of the ghosts who chae pac man and ms. pac-man?",
+            "question_array": [
+                "names",
+                "ghosts",
+                "chae",
+                "pac",
+                "man",
+                "ms",
+                "pac-man"
+            ]
+        },
+        {
+            "question": "what's the name of the mythbusters' crash test mummy?",
+            "question_array": [
+                "name",
+                "mythbusters",
+                "crash",
+                "test",
+                "mummy"
+            ]
+        },
+        {
+            "question": "what is an oxford comma?",
+            "question_array": [
+                "oxford",
+                "comma"
+            ]
+        },
+        {
+            "question": "who was the captain of the enterprise in the pilot episode of star trek?",
+            "question_array": [
+                "captain",
+                "enterprise",
+                "pilot",
+                "episode",
+                "star",
+                "trek"
+            ]
+        },
+        {
+            "question": "what is the symbol for the modulus operator in C?",
+            "question_array": [
+                "symbol",
+                "modulus",
+                "operator",
+                "C"
+            ]
+        },
+        {
+            "question": "what function is automatically called at the beginning of a C++ program?",
+            "question_array": [
+                "function",
+                "automatically",
+                "called",
+                "beginning",
+                "C",
+                "program"
+            ]
+        },
+        {
+            "question": "which computer programming languages whas introduced by IBM in 1957?",
+            "question_array": [
+                "computer",
+                "programming",
+                "languages",
+                "whas",
+                "introduced",
+                "IBM",
+                "1957"
+            ]
+        },
+        {
+            "question": "who is considered as the first programmer?",
+            "question_array": [
+                "considered",
+                "first",
+                "programmer"
+            ]
+        },
+        {
+            "question": "has a robot ever killed a person?",
+            "question_array": [
+                "robot",
+                "ever",
+                "killed",
+                "person"
+            ]
+        },
+        {
+            "question": "who was hitchbot?",
+            "question_array": [
+                "hitchbot"
+            ]
+        },
+        {
+            "question": "are self-driving cars safe?",
+            "question_array": [
+                "self-driving",
+                "cars",
+                "safe"
+            ]
+        },
+        {
+            "question": "who invented the compiler?",
+            "question_array": [
+                "invented",
+                "compiler"
+            ]
+        },
+        {
+            "question": "who created the python programming language?",
+            "question_array": [
+                "created",
+                "python",
+                "programming",
+                "language"
+            ]
+        },
+        {
+            "question": "is mark zuckerberg a robot?",
+            "question_array": [
+                "mark",
+                "zuckerberg",
+                "robot"
+            ]
+        },
+        {
+            "question": "why did you run away?",
+            "question_array": [
+                "run",
+                "away"
+            ]
+        },
+        {
+            "question": "what kind of salad do robots like?",
+            "question_array": [
+                "kind",
+                "salad",
+                "robots",
+                "like"
+            ]
+        },
+        {
+            "question": "what did you eat for lunch?",
+            "question_array": [
+                "eat",
+                "lunch"
+            ]
+        },
+        {
+            "question": "why did robots get angry so often?",
+            "question_array": [
+                "robots",
+                "get",
+                "angry",
+                "often"
+            ]
+        },
+        {
+            "question": "why shouldn't r2d2 be allowed in movies?",
+            "question_array": [
+                "r2d2",
+                "allowed",
+                "movies"
+            ]
+        },
+        {
+            "question": "what's your favorite style of music?",
+            "question_array": [
+                "favorite",
+                "style",
+                "music"
+            ]
+        },
+        {
+            "question": "What is the most populous city in Brazil?",
+            "question_array": [
+                "What",
+                "populous",
+                "city",
+                "Brazil"
+            ]
+        },
+        {
+            "question": "Which continent is Brazil located in?",
+            "question_array": [
+                "Which",
+                "continent",
+                "Brazil",
+                "located"
+            ]
+        },
+        {
+            "question": "On what day, month and year was Brazil's independence declared?",
+            "question_array": [
+                "On",
+                "day",
+                "month",
+                "year",
+                "Brazil",
+                "independence",
+                "declared"
+            ]
+        },
+        {
+            "question": "How many states does Brazil have (with Federal District)?",
+            "question_array": [
+                "How",
+                "many",
+                "states",
+                "Brazil",
+                "Federal",
+                "District"
+            ]
+        },
+        {
+            "question": "In what year did the first Brazilian astronaut go to space?",
+            "question_array": [
+                "In",
+                "year",
+                "first",
+                "Brazilian",
+                "astronaut",
+                "go",
+                "space"
+            ]
+        },
+        {
+            "question": "What is the only capital of Brazil crossed by the Equator?",
+            "question_array": [
+                "What",
+                "capital",
+                "Brazil",
+                "crossed",
+                "Equator"
+            ]
+        },
+        {
+            "question": "How many time zones are there in Brazil?",
+            "question_array": [
+                "How",
+                "many",
+                "time",
+                "zones",
+                "Brazil"
+            ]
+        },
+        {
+            "question": "In which city is the world's first urban elevator and what is the name of that elevator?",
+            "question_array": [
+                "In",
+                "city",
+                "world",
+                "first",
+                "urban",
+                "elevator",
+                "name",
+                "elevator"
+            ]
+        },
+        {
+            "question": "What is the only biome present in Brazil that is exclusive in the world?",
+            "question_array": [
+                "What",
+                "biome",
+                "present",
+                "Brazil",
+                "exclusive",
+                "world"
+            ]
+        },
+        {
+            "question": "Pampulha Lake is a tourist spot in which Brazilian city?",
+            "question_array": [
+                "Pampulha",
+                "Lake",
+                "tourist",
+                "spot",
+                "Brazilian",
+                "city"
+            ]
+        },
+        {
+            "question": "What is the smallest Brazilian state in territorial extension?",
+            "question_array": [
+                "What",
+                "smallest",
+                "Brazilian",
+                "state",
+                "territorial",
+                "extension"
+            ]
+        },
+        {
+            "question": "Which capitals in Brazil have the same name as your state?",
+            "question_array": [
+                "Which",
+                "capitals",
+                "Brazil",
+                "name",
+                "state"
+            ]
+        },
+        {
+            "question": "Where is the Itamaraty Palace located?",
+            "question_array": [
+                "Where",
+                "Itamaraty",
+                "Palace",
+                "located"
+            ]
+        },
+        {
+            "question": "What was the first name given to Brazil by the Portuguese?",
+            "question_array": [
+                "What",
+                "first",
+                "name",
+                "given",
+                "Brazil",
+                "Portuguese"
+            ]
+        },
+        {
+            "question": "Acarajé is a typical food from which state?",
+            "question_array": [
+                "Acarajé",
+                "typical",
+                "food",
+                "state"
+            ]
+        },
+        {
+            "question": "Pico da Neblina can be found in which Brazilian state?",
+            "question_array": [
+                "Pico",
+                "da",
+                "Neblina",
+                "found",
+                "Brazilian",
+                "state"
+            ]
+        },
+        {
+            "question": "Pão de Açúcar is located in which Brazilian capital?",
+            "question_array": [
+                "Pão",
+                "de",
+                "Açúcar",
+                "located",
+                "Brazilian",
+                "capital"
+            ]
+        }
+    ]
+}

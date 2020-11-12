@@ -4,7 +4,6 @@ from html import unescape
 from pseudo_nlp import pre_process_question, merge_question_array, find_question
 import json
 
-
 app_id = 'sua chave do wolfram'
 
 with open('questions/doris_personal_questions.json') as json_file:

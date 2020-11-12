@@ -1,2 +1,2 @@
-*.json
+keys/*.json
 *.pyc
