@@ -1,18 +1,18 @@
 {
     "questions": [
         {
-            "question": "what does the acronym SMTP represent?",
-            "question_array": [
-                "acronym",
-                "SMTP",
-                "represent"
-            ]
-        },
-        {
             "question": "what does the acronym MPEG represent?",
             "question_array": [
                 "acronym",
                 "MPEG",
+                "represent"
+            ]
+        },
+        {
+            "question": "what does the acronym SMTP represent?",
+            "question_array": [
+                "acronym",
+                "SMTP",
                 "represent"
             ]
         },

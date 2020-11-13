@@ -85,7 +85,10 @@ def ask_google(question):
 
 def ask_doris(question):
     question_obj = find_question(question, doris_personal_questions)
-    answer = question_obj['answer']
+    if question_obj['question'] == '':
+        answer = "I'm afraid I don't know the answer."
+    else: 
+        answer = question_obj['answer']
 
     return answer
 
@@ -112,9 +115,10 @@ def answer_question(question):
                 return 'I\'m sorry. I\'m afraid I do not know the answer for your question'
 
 if __name__ == '__main__':
-    doc = open('questions/2020_complex.txt', 'r')
-    lines = doc.readlines()
-    for line in lines:
-        print(line)
-        print(answer_question(line))
-        print('-----------------------------------------------------------------------')
+    answer_question('what does the acronym mdeg represent')
+    # doc = open('questions/2020_simple.txt', 'r')
+    # lines = doc.readlines()
+    # for line in lines:
+    #     print(line)
+    #     print(answer_question(line))
+    #     print('-----------------------------------------------------------------------')

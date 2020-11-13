@@ -25,13 +25,15 @@ def transcribe_file(speech_file):
     )
 
     response = client.recognize(config=config, audio=audio)
-
+    
     response_string = ""
     for result in response.results:
        response_string += result.alternatives[0].transcript
 
-    question_obj = find_question(response_string)
-    if question_obj != None:
-        response_string = question_obj['question']
+    # print(response_string)
+
+    # question_obj = find_question(response_string)
+    # if question_obj != None:
+    #     response_string = question_obj['question']
 
     return response_string
