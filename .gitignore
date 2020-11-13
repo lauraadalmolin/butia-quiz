@@ -1,2 +1,5 @@
 keys/*.json
 *.pyc
+*.mp3
+*.wav
+*.ogg
